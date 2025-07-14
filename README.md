@@ -7,6 +7,8 @@ This software is an automation tool that pentesters are able to use to encode an
 
 Please! Be careful at the time to attach data to images, as it only needs a simple passphrase, which in case it is not strong, it could be brute-forced and decrypted. 
 
+Be aware that you will need an image to use as communication medium. 
+
 This tool is developed strictly for educational and ethical purposes. I DO NOT take any responsibility for the misuse of this toool. 
 
 By ne0mesys
