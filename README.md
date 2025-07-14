@@ -1,4 +1,4 @@
-# 🧩 Hide-n-seek.sh by ne0mesys
+# 🧩 Hide-n-Seek.sh by ne0mesys
 ***This script has been created by ne0mesys and serves as an automation tool, to which pentesters are able to use to hide information, data or just a simple text, as well as extracting it from images. I hope you like it ;)***
 
 ## Welcome
@@ -57,8 +57,8 @@ Here's a short documentation about how to install the script for Linux users:
 
 ```
 sudo apt install git
-sudo git clone https://github.com/ne0mesys/hide-n-seek
-cd hide-n-seek
+sudo git clone https://github.com/ne0mesys/Hhide-n-Seek
+cd Hide-n-Seek
 ```
 
 ### For Arch Linux
@@ -67,8 +67,8 @@ Here's a short documentation about how to install the script for Arch Linux user
 
 ```
 sudo pacman -S git
-sudo git clone https://github.com/ne0mesys/hide-n-seek
-cd hide-n-seek
+sudo git clone https://github.com/ne0mesys/Hide-n-Seek
+cd Hide-n-Seek
 ```
 
 ## Execution
@@ -76,7 +76,7 @@ cd hide-n-seek
 Once we are in the same folder of the software, we can proceed to enable its execution. We can do this with the following command:
 
 ```
-sudo chmod +x Hide-n-seek.sh
+sudo chmod +x Hide-n-Seek.sh
 ```
 
 The software includes the Shebang line, ```#!/bin/bash``` which allows the user to execute it directly. We can do this using the command ```./Hide-n-seek.sh```.
@@ -86,8 +86,8 @@ However, it would be necessary to have the script **always** in the same directo
 In order to do this perform the next commands in the terminal:
 
 ```
-sudo chmod +x Hide-n-seek.sh
-sudo mv Hide-n-seek.sh /usr/local/bin/hidden
+sudo chmod +x Hide-n-Seek.sh
+sudo mv Hide-n-Seek.sh /usr/local/bin/hidden
 ```
 
 **Now you are able to use the script as a command in the terminal!**
