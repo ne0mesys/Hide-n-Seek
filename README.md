@@ -1,4 +1,4 @@
-# Hide-n-seek.sh by ne0mesys
+# 🧩 Hide-n-seek.sh by ne0mesys
 ***This script has been created by ne0mesys and serves as an automation tool, to which pentesters are able to use to hide information, data or just a simple text, as well as extracting it from images. I hope you like it ;)***
 
 ## Welcome
