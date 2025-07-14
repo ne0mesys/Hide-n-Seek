@@ -87,7 +87,7 @@ In order to do this perform the next commands in the terminal:
 
 ```
 sudo chmod +x Hide-n-seek.sh
-sudo mv Hide-n-seek.sh /usr/local/hidden
+sudo mv Hide-n-seek.sh /usr/local/bin/hidden
 ```
 
 **Now you are able to use the script as a command in the terminal!**
