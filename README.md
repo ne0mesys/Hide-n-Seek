@@ -9,12 +9,13 @@ Please! Be careful at the time to attach data to images, as it only needs a simp
 
 Be aware that you will need an image to use as communication medium. 
 
-This tool is developed strictly for educational and ethical purposes. I DO NOT take any responsibility for the misuse of this toool. 
+This tool is developed strictly for educational and ethical purposes. I DO NOT take any responsibility for the misuse of this tool. 
 
 By ne0mesys
 
 
 <p align="center">
+  <img height="400" src="https://github.com/user-attachments/assets/94f815e3-826c-4795-81d6-5268cc9a034d" alt="Normal Image"/>
   <img src="https://github.com/user-attachments/assets/f5aea97b-c18e-40a9-9921-802f7c2cf5b7" alt="Text extraction from Image" />
 </p>
 
