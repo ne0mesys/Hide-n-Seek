@@ -13,6 +13,12 @@ This tool is developed strictly for educational and ethical purposes. I DO NOT t
 
 By ne0mesys
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5aea97b-c18e-40a9-9921-802f7c2cf5b7" alt="Text extraction from Image" />
+</p>
+
+
 ## Requirements 
 
 ### For Linux
